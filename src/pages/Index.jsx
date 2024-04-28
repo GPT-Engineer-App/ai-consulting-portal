@@ -90,7 +90,7 @@ const AboutSection = () => {
         <Heading as="h2" size="xl">
           About Us
         </Heading>
-        <Text mt={4}>With over a decade of experience in AI, we provide top-tier consulting services and develop advanced AI products that cater to various industries including healthcare, finance, and retail.</Text>
+        <Text mt={4}>With over a decade of experience in AI, we provide top-tier consulting services and develop advanced AI products that cater to various industries including healthcare, finance, and retail. Our team consists of world-class AI experts and thought leaders who are dedicated to pushing the boundaries of artificial intelligence to solve real-world problems. We are committed to sustainability and ethical AI practices, ensuring that our innovations contribute positively to society and the environment.</Text>
       </Box>
     </Flex>
   );
